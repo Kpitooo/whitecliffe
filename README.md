@@ -4,7 +4,7 @@ Hello!
 This is my Repository, about my learning and knowledge in whitecliffe. Projects will be showing here. Plus, my notes a long the course for ease of access.
 
 ## Software Development Fundamentals
-[Assignments](./Software-Development/Assignments/)
+[Assignments] (./Software-Development/Assignments/) <br>
 [Notes](./Software-Development/Notes/)
 
 
