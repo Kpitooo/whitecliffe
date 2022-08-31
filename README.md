@@ -12,5 +12,5 @@ This is my Repository, about my learning and knowledge in whitecliffe. Projects 
 [Assignments](./Technical-Support/Assignments/) <br>
 [Notes](./Technical-Support/Notes/)
 
-## Research/Other
+## Other
 [Reflective Journal](./Research/Reflective-Journal.md/) <br>
