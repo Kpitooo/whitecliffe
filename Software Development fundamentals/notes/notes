@@ -1,1 +1,13 @@
+What is polymorphism?
 
+"many forms- many shapes"
+
+The ability of a message to be displayed in more than one form.
+
+what is the use of polymorphism?
+
+Polymorphism allows us to perform a single action in different ways. that means Polymorphism allows you to defineone interface and have multiple implementations
+
+4 types of polymorphism:
+
+ad-hoc, Inclusion, parametric & Coercion
