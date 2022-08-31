@@ -1,13 +1,14 @@
 # **Research Repository** *_WHITECLIFFE_*
 
-This is my GitHub Research Repository, consisting of information I have learned so far, and projects I may or may not have completed. Additionally, I am storing my general note-taking here for ease of access.
+Hello! 
+This is my Repository, about my learning and knowledge in whitecliffe. Projects will be showing here. Plus, my notes a long the course for ease of access.
 
-## Software Development
+## Software Development Fundamentals
 [Assignments](./Software-Development/Assignments/) <br>
 [Notes](./Software-Development/Notes/)
 
 
-## Technical Support
+## Technical Support Fundamentals
 [Assignments](./Technical-Support/Assignments/) <br>
 [Notes](./Technical-Support/Notes/)
 
