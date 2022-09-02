@@ -3,14 +3,3 @@
 Hello! 
 This is my Repository, about my learning and knowledge in whitecliffe. Projects will be showing here. Plus, my notes a long the course for ease of access.
 
-## Software Development Fundamentals
-[Assignments](./Software-Development/Assigments/) <br>
-[Notes](./Software-Development/Notes/)
-
-
-## Technical Support Fundamentals
-[Assignments](./Technical-Support/Assignments/) <br>
-[Notes](./Technical-Support/Notes/)
-
-## Other
-[Reflective Journal](./Research/Reflective-Journal.md/) <br>
