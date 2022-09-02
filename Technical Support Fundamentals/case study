@@ -1,0 +1,20 @@
+Instructions
+TASK: IDENTIFY PC REQUIREMENTS FOR AN ORGANISATION
+
+Your employer, Spring Computers, is interested in extending their site offices. They have asked you to work on the design of the network solution while keeping in mind the fundamental concepts of IT technical support. They want to establish another site in Auckland along with the current site in Wellington, and while you are working on the design, they would like you to plan for another two sites.
+
+Your manager has provided you with the following list of requirements:
+
+Connect at least 4 computers at each site into one cohesive network.
+Ensure all communication between the sites is secure.
+Ensure each site has a centralised printer connected with all systems.
+Provide a suite of software tools available for monitoring and managing call logs and customer support.
+Design prioritisation system to handle support calls.
+Available budget: $20,000/-
+Your task: develop a plan that identifies the following:
+
+Hardware/software components and network devices.
+Communication channel that should be used to connect both sites - You can add more than one possible option to secure the channel.
+Costs of computing equipment and network components including any servers, infrastructure, printer, related hardware, software, accessories, and security protocols.
+How will you handle the support call prioritisation?
+You also need to provide a rationale and justification for every component.
