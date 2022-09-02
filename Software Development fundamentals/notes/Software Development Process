@@ -28,3 +28,50 @@ The design and prototyping stage of software development is similar to drafting 
 
 
 Step #4: Development
+The most time-consuming one
+
+Step #5: Quality Assurance
+
+During this stage, the quality assurance (QA) team will perform a range of tests that simulate the real-life use of the software.
+These tests will show not only whether the finished product is issue-free, but also whether it reflects the client’s original idea and meets their business goals.
+
+Step #6: Software Deployment
+Depending on the nature and the complexity of the software, it can either be deployed all at once or in several stages.
+
+Step #7: Software Maintenance
+Software is never really finished. This is why software maintenance is the final but also a continuous stage of software development.
+During the maintenance stage, it is important to collect and analyze user feedback to identify bugs and issues that the quality assurance team might have missed.
+In this stage, the software is perfected to outperform its competition and provide long-term value to the client.
+
+
+4 Main Software Development Methodologies
+
+Methodology #1: Waterfall
+
+Waterfall is the oldest, most common software development methodology.
+Under the Waterfall methodology, you will need to follow the process step-by-step, completing one before moving onto the next.
+The Waterfall method does not give you a lot of flexibility
+
+Methodology #2: Agile
+
+Agile is essentially the opposite of Waterfall. As the name suggests, its main priorities are flexibility and a fast-paced workflow.
+The Agile method is based around short bursts of the development process called Sprints.
+Instead of spending a long time building a software product from start to finish, 
+the development team will work to create a so-called Minimal Viable Product (MVP) and deliver it to the client stage by stage.
+The Agile method is very fitting for projects that require continuous updates but can be very costly and difficult to manage.
+
+Methodology #3: DevOps
+DevOps is an extension of the Agile methodology that prioritizes continuous improvement and collaboration.
+
+More of an organizational culture than a strict development methodology, DevOps relies on cross-organizational collaboration between different teams in the development pipeline.
+In the more traditional methodologies, developers tend to use a single tool to complete a task before passing it onto the next person in the pipeline.
+DevOps developers use the toolchains - sets of tools that enable them to continuously collaborate with other project stakeholders.
+DevOps is a great methodology for projects that require continuous updates and need to be completed in the shortest time possible, but it can be problematic for more process-driven companies and projects.
+
+Methodology #4: Rapid Application Development
+
+The goal of Rapid Application Development is to maximize the quality of the end product while minimizing its cost.
+Rapid Application Development tends to be client-centric and relies on user input in the development process.
+It drops the strict process guidelines and procedures in favor of developing a functional prototype of the product as fast as possible and perfecting it until it’s ready for immediate deployment.
+Rapid Application Development works best for smaller, time-sensitive projects and experienced teams, but will typically not be useful in other cases.
+
