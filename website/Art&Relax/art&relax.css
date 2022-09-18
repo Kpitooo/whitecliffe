@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="eng">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art and Relax</title>
+    <link rel="shortcut icon" href="./images/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="./css/normalize.css">
+    <link rel="stylesheet" href="./css/estilos.css">
+
+    <meta name="theme-color" content="#2091F9">
+
+    <meta name="title" content="Holistic art therapy">
+    <meta name="description"
+        content="holistic art therapy courses.">
+
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://artandrelax.com">
+    <meta property="og:title" content="workshops">
+    <meta property="og:description"
+        content="social events">
+  
+
+</head>
+
+<body>
+
+    <header class="hero">
+        <nav class="nav container">
+            <div class="nav__logo">
+                <h2 class="nav__title">Art and Relax</h2>
+            </div>
+
+            <ul class="nav__link nav__link--menu">
+                <li class="nav__items">
+                    <a href="#" class="nav__links">HOME</a>
+                </li>
+                <li class="nav__items">
+                    <a href="#" class="nav__links">ABOUT</a>
+                </li>
+                <li class="nav__items">
+                    <a href="#" class="nav__links">COURSES</a>
+                </li>
+                <li class="nav__items">
+                    <a href="#" class="nav__links">FAQ</a>
+                </li>
+                <li class="nav__items">
+                    <a href="#" class="nav__links">CONTACT</a>
+                </li>
+                <li class="nav__items">
+                    <a href="#" class="nav__links">DOWNLOAD</a>
+                </li>
+
+                <img src="./images/art.jpg" class="nav__close">
+            </ul>
+
+            <div class="nav__menu">
+                <img src="./images/art.jpg" class="nav__img">
+            </div>
+        </nav>
+
+        <section class="hero__container container">
+            <h1 class="hero__title">HOLISTIC ART THERAPY WORKSHOPS.</h1>
+            <p class="hero__paragraph">ART & RELAX IS A WONDERFUL PLACE TO COME AND EXPERIENCE A HANDS-ON WORKSHOP WHERE YOU CAN CREATE YOUR OWN PRODUCT TO TAKE HOME.</p>
+            <a href="#" class="cta">START NOW THE TOUR</a>
+        </section>
+    </header>
+
+    <main>
+        <section class="container about">
+            <h2 class="subtitle">¿WHAT IS OUR MOTIVATION?</h2>
+            <p class="about__paragraph">We try to put emphasis on connecting to the mind and heart, Through the processes of creating and of meaning-making.</p>
+
+            <div class="about__main">
+                <article class="about__icons">
+                    <img src="./images/shapes.svg" class="about__icon">
+                    <h3 class="about__title">Workshops</h3>
+                    <p class="about__paragrah">A variety of courses for enojoy...</p>
+                </article>
+
+                <article class="about__icons">
+                    <img src="./images/paint.svg" class="about__icon">
+                    <h3 class="about__title">Create</h3>
+                    <p class="about__paragrah">Bring on the best energy for explore at the maximum yor creativity...</p>
+                </article>
+
+                <article class="about__icons">
+                    <img src="./images/code.svg" class="about__icon">
+                    <h3 class="about__title">Social</h3>
+                    <p class="about__paragrah">Connect with more people in a happy environment</p>
+                </article>
+            </div>
+        </section>
+
+        <section class="knowledge">
+            <div class="knowledge__container container">
+                <div class="knowledege__texts">
+                    <h2 class="subtitle">Our Workshops</h2>
+                    <p class="knowledge__paragraph">with an extend range of courses that you can choose  </a>
+                </div>
+
+                <figure class="knowledge__picture">
+                    <img src="./images/macbook.png" class="knowledge__img">
+                </figure>
+            </div>
+        </section>
+
+        <section class="price container">
+            <h2 class="subtitle">Best Sellers workshop</h2>
+
+            <div class="price__table">
+                <div class="price__element">
+                    <p class="price__name">Watercolour</p>
+                    <h3 class="price__price">Free</h3>
+
+                    <div class="price__items">
+                        <p class="price__features">Watercolour</p>
+                        <p class="price__features">Come and learn how to Paint with our fabulous Techniques</p>
+                        <p class="price__features">Online</p>
+                    </div>
+
+                    <a href="#" class="price__cta">Start Now</a>
+                </div>
+
+
+                <div class="price__element price__element--best">
+                    <p class="price__name">String Art</p>
+                    <h3 class="price__price">$65 per person</h3>
+
+                    <div class="price__items">
+                        <p class="price__features">String Art</p>
+                        <p class="price__features">Come along with your energy to drive some nails and form a nice art</p>
+                        <p class="price__features">Face to face</p>
+                    </div>
+
+                    <a href="#" class="price__cta">Book now</a>
+                </div>
+
+
+                <div class="price__element">
+                    <p class="price__name">Fun Shop</p>
+                    <h3 class="price__price">$55 per person</h3>
+
+                    <div class="price__items">
+                        <p class="price__features">After booking in for a workshop you will choose one of the following for your group to make. Within each option are some individual choices for the participants on the day.</p>
+                        <p class="price__features">Teaching about the ingredients will take place during the making process</p>
+                        <p class="price__features">Face to Face</p>
+                    </div>
+
+                    <a href="#" class="price__cta">Book Now</a>
+                </div>
+
+
+            </div>
+        </section>
+
+        <section class="testimony">
+            <div class="testimony__container container">
+                <img src="./images/leftarrow.svg" class="testimony__arrow" id="before">
+
+                <section class="testimony__body testimony__body--show" data-id="1">
+                    <div class="testimony__texts">
+                        <h2 class="subtitle">My name is Jordan Alexander, <span class="testimony__course">Participant of Art and Relax.</span></h2>
+                        <p class="testimony__review">Love the idea of getting together with some friends and getting creative!</p>
+                    </div>
+
+                    <figure class="testimony__picture">
+                        <img src="./images/face.jpg" class="testimony__img">
+                    </figure>
+                </section>
+
+                <section class="testimony__body" data-id="2">
+                    <div class="testimony__texts">
+                        <h2 class="subtitle">My name is Ale Ramsay, <span class="testimony__course">Participant of Art and Relax.</span></h2>
+                        <p class="testimony__review">well organised, friendly teacher, great venue, well resourced!</p>
+                    </div>
+
+                    <figure class="testimony__picture">
+                        <img src="./images/face2.jpg" class="testimony__img">
+                    </figure>
+                </section>
+
+                <section class="testimony__body" data-id="3">
+                    <div class="testimony__texts">
+                        <h2 class="subtitle">My name is Karen Glenn, <span class="testimony__course">Frecuently Participant of Art and Relax.</span></h2>
+                        <p class="testimony__review">I had the best evening. It was a great atmosphere, really enjoyable and I had a great time with friends and family. It was also well worth the money. I would definitely doit again and I have already recommended it to my work friends.</p>
+                    </div>
+
+                    <figure class="testimony__picture">
+                        <img src="./images/face3.jpg" class="testimony__img">
+                    </figure>
+                </section>
+
+                <section class="testimony__body" data-id="4">
+                    <div class="testimony__texts">
+                        <h2 class="subtitle">Mi nombre es Kevin Anthony, <span class="testimony__course">Participant of Art and Relax.</span></h2>
+                        <p class="testimony__review">This was a great experience for me and my friends and everyone else seemed to be enjoying this as well!</p>
+                    </div>
+
+                    <figure class="testimony__picture">
+                        <img src="./images/face4.jpg" class="testimony__img">
+                    </figure>
+                </section>
+
+
+                <img src="./images/rightarrow.svg" class="testimony__arrow" id="next">
+            </div>
+        </section>
+
+        <section class="questions container">
+            <h2 class="subtitle">Frequently Asked Questions</h2>
+            <p class="questions__paragraph">This list provides answers to common questions asked by visitors of the Website.</p>
+
+            <section class="questions__container">
+                <article class="questions__padding">
+                    <div class="questions__answer">
+                        <h3 class="questions__title">¿What is Art and Relax?
+                            <span class="questions__arrow">
+                                <img src="./images/arrow.svg" class="questions__img">
+                            </span>
+                        </h3>
+
+                        <p class="questions__show">?</p>
+                    </div>
+                </article>
+
+                <article class="questions__padding">
+                    <div class="questions__answer">
+                        <h3 class="questions__title">¿What will I learn in this course ?
+                            <span class="questions__arrow">
+                                <img src="./images/arrow.svg" class="questions__img">
+                            </span>
+                        </h3>
+
+                        <p class="questions__show">Here you will be learning by doing, and through the process of making.</p>
+                    </div>
+                </article>
+
+                <article class="questions__padding">
+                    <div class="questions__answer">
+                        <h3 class="questions__title">¿What does it mean Holistic?
+                            <span class="questions__arrow">
+                                <img src="./images/arrow.svg" class="questions__img">
+                            </span>
+                        </h3>
+
+                        <p class="questions__show">Characterized by the belief that the parts of sometyhing are interconnected and explicable only by reference to a whole.</p>
+                    </div>
+                </article>
+            </section>
+
+            <section class="questions__offer">
+                <h2 class="subtitle">¿HOW THIS WILL HELP ME TO HEAL?</h2>
+                <p class="questions__copy">We strongly believe that the process of making have a huge impact in life and in the development of creation and healing.</p>
+                <a href="#" class="cta">LEARN NOW!</a>
+            </section>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <section class="footer__container container">
+            <nav class="nav nav--footer">
+                <h2 class="footer__title">ART AND RELAX</h2>
+
+                <ul class="nav__link nav__link--footer">
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">HOME</a>
+                    </li>
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">ABOUT</a>
+                    </li>
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">COURSES</a>
+                    </li>
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">FAQ</a>
+                    </li>
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">CONTACT</a>
+                    </li>
+                    <li class="nav__items">
+                        <a href="#" class="nav__links">DOWNLOAD</a>
+                    </li>
+            </nav>
+
+            <form class="footer__form" action="https://formspree.io/f/mknkkrkj" method="POST">
+                <h2 class="footer__newsletter">Subscribe newsletter</h2>
+                <div class="footer__inputs">
+                    <input type="email" placeholder="Email:" class="footer__input" name="_replyto">
+                    <input type="submit" value="Register" class="footer__submit">
+                </div>
+            </form>
+        </section>
+
+        <section class="footer__copy container">
+            <div class="footer__social">
+                <a href="#" class="footer__icons"><img src="./images/facebook.svg" class="footer__img"></a>
+                <a href="#" class="footer__icons"><img src="./images/twitter.svg" class="footer__img"></a>
+                <a href="#" class="footer__icons"><img src="./images/youtube.svg" class="footer__img"></a>
+            </div>
+
+            <h3 class="footer__copyright">All right reserved &copy; Camila Cortes </h3>
+        </section>
+    </footer>
+
+    <script src="./js/slider.js"></script>
+    <script src="./js/questions.js"></script>
+    <script src="./js/menu.js"></script>
+</body>
+
+</html>
